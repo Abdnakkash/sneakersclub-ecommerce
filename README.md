@@ -27,5 +27,5 @@ npm install
 npm run dev
 
 ## Image:
-<img src="./Home-page.png" width="900" />
+<img src="Home-page.png" width="900" />
 
