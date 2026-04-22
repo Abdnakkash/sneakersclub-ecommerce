@@ -27,5 +27,5 @@ npm install
 npm run dev
 
 ## Image:
-<img width="1920" height="2882" alt="screencapture-sneakersclub-syria-netlify-app-2026-04-22-13_10_25" src="https://github.com/user-attachments/assets/64ff42dd-bc9d-4c27-8460-3abc689af564" />
+<img src="./Home-page.png" width="900" />
 
