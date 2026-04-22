@@ -26,6 +26,5 @@ SneakersClub is a modern bilingual e-commerce web application for sneakers and c
 npm install
 npm run dev
 
-## Image:
-<img src="Home-page.png" width="900" />
+
 
